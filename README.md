@@ -13,11 +13,7 @@
         <div class="content" id="skills">
             <h2>技能</h2>
             <ul>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>JavaScript</li>
                 <li>Python</li>
-                <li>Java</li>
             </ul>
         </div>
         <div class="content" id="projects">
