@@ -67,7 +67,7 @@
         </nav>
         <div class="content" id="about">
             <h2>关于我</h2>
-            <p>你好，我是北京大学24级新生孟子博</p>
+            <p>你好 我是北京大学24级新生孟子博</p>
         </div>
         <div class="content" id="skills">
             <h2>技能</h2>
