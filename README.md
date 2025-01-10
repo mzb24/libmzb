@@ -64,15 +64,10 @@
         <header>
             <h1>欢迎来到我的个人网页</h1>
         </header>
-        <nav>
-            <a href="#about">关于我</a>
-            <a href="#skills">技能</a>
-            <a href="#projects">项目</a>
-            <a href="#contact">联系我</a>
         </nav>
         <div class="content" id="about">
             <h2>关于我</h2>
-            <p>你好，我是一名热爱编程和设计的开发者。我热衷于学习新技术，并且喜欢将创意转化为实际的项目。在业余时间，我喜欢阅读、旅行和摄影。</p>
+            <p>你好，我是北京大学24级新生孟子博</p>
         </div>
         <div class="content" id="skills">
             <h2>技能</h2>
