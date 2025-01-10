@@ -22,9 +22,5 @@
             <p>Email: 2315442309qq.com</p>
             <p>电话: 13373197171</p>
         </div>
-        <footer>
-            <p>版权所有 &copy; 2025 我的个人网页</p>
-        </footer>
-    </div>
 </body>
 </html>
